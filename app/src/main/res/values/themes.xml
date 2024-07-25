@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TipTime" parent="android:Theme.Material.Light.NoActionBar" />
+    <!--Primary Brand Color-->
+    <!--<item name="ColorPrimaryVariant">@color/green_dark</item>
+    <item name="ColorOnPrimary">@color/white</item>-->
+    <!--Secondary Brand Color
+    <item name="ColorSecondary">@color/blue</item>
+    <item name="ColorSecondaryVariant">@color/blue_dark</item>
+    <item name="ColorOnSecondary">@color/black</item>-->
+
+</resources>
